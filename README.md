@@ -1,4 +1,4 @@
-# My-Portfolio-only-HTML-CSS
+# Portfolio-only-HTML-CSS
 <b>This is a "Portfolio website" with Html and CSS. </b>
 <br><br>
 <img src="https://github.com/shzehra93/My-Portfolio-only-HTML-CSS/assets/126316477/715b9dc3-b05e-43e3-aaa1-5f4df63eda81" alt="portfolio1" height="260px" width="420px">
